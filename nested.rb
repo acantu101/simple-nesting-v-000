@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-programmer_hash["yukihiro_matsumoto"]= "new"
+programmer_hash["yukihiro_matsumoto"]
 programmer_hash[:grace_hopper]
 
 end
