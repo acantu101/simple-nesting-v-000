@@ -16,7 +16,6 @@ def hopper
         }
      }
 
-programmer_hash["yukihiro_matsumoto"]
 programmer_hash[:grace_hopper]
 
 end
@@ -84,6 +83,7 @@ def adding_matz
         }
      }
 
+programmer_hash["yukihiro_matsumoto"]
 
 end
 
